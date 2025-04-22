@@ -2,35 +2,30 @@
 
 ## 📚 Topics
 
-- **Different terms in the field**
-- **Statistics & Probability**
-
-  - Distributions (Normal, etc.)
-  - Mean, Median & Standard Deviation
-  - Variance, covariance & MAD
-  - Univariate & Multivariate Data
-  - Likelihood & Bayesian Statistics
-  - Normality Assumptions
-  - Outliers Analysis
-  - t-test & Wilcoxon
-
-- **Linear Algebra**
-
-  - Vector operations, magnitude & phase
-  - Linear Operations
-  - Dot Product
-  - Matrix Operations
-
-- **Information Theory**
-
-  - Entropy
-  - KL Divergence
-  - Log Functions
-
-- **Trigonometry**
-  - Sine & Cosine
-  - Cosine Similarity
-  - Signal Processing Applications
+- Terms
+- Independence
+- Discrete and continuous variables
+- Probability mass function (PMF) and probability density function (PDF)
+- Derivative
+- Integration
+- Sample, population, mean variations (weighted mean, trimmed mean)
+- Median, quartiles
+- Identifying outliers
+- Standard deviation and variance
+- Frequency tables and histograms variations
+- Box plots.
+- Distributions (Normal, etc.)
+- Covariance and correlations
+- Log Functions
+- Likelihood & Bayesian Statistics
+- Vector operations, magnitude & phase
+- Linear Operations
+- Matrix Operations
+- Entropy
+- KL Divergence
+- Sine & Cosine
+- Cosine Similarity
+- t-test & Wilcoxon
 
 ### 🚀 Let's get right into it
 
