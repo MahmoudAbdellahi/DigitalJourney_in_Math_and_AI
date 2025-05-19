@@ -1,4 +1,4 @@
-[![Introduction Video](https://i.postimg.cc/FRmHQqSt/github-image.jpg)](https://www.youtube.com/watch?v=7eq2wQ3nRQ0)
+[![Introduction Video](https://i.postimg.cc/rmyMfbJT/github-photo.jpg)](https://www.youtube.com/watch?v=7eq2wQ3nRQ0)
 
 ## 📚 Topics
 
@@ -14,15 +14,13 @@
 - Standard deviation and variance
 - Frequency tables and histograms variations
 - Box plots.
-- Distributions (Normal, etc.)
+- The normal distribution
 - Covariance and correlations
 - Log Functions
-- Likelihood & Bayesian Statistics
+- KL Divergence
 - Vector operations, magnitude & phase
-- Linear Operations
 - Matrix Operations
 - Entropy
-- KL Divergence
 - Sine & Cosine
 - Cosine Similarity
 - t-test & Wilcoxon
